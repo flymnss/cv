@@ -50,7 +50,7 @@
 
 Далее применим фильтр Гаусса для собственного изображения в сравнении с реализацией фильтра из библиотеки cv2
 
-![gause_vs_cv2](images_README/gause_vs_cv2.pnj)
+![gause_vs_cv2](images_README/gause_vs_cv2.png)
 
 # 2.1 Эрозия
 
