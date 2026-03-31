@@ -58,11 +58,11 @@
 
 Далее приведена визуализация результата работы алгоритма:
 
-![sobel](images_README/output_ugls.pnj)
-![sobel](images_README/output_ugls2.pnj)
-![sobel](images_README/output_ugls3.pnj)
-![sobel](images_README/output_ugls4.pnj)
-![sobel](images_README/output_ugls5.pnj)
-![sobel](images_README/output_ugls6.pnj)
-![sobel](images_README/output_ugls7.pnj)
+![sobel](images_README/output_ugls.png)
+![sobel](images_README/output_ugls2.png)
+![sobel](images_README/output_ugls3.png)
+![sobel](images_README/output_ugls4.png)
+![sobel](images_README/output_ugls5.png)
+![sobel](images_README/output_ugls6.png)
+![sobel](images_README/output_ugls7.png)
 !
